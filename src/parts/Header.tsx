@@ -4,7 +4,6 @@ import styled, { css } from 'styled-components'
 const HeaderOutline = styled.div`
     background:#8ac6d1;
     padding:0.5rem 0;
-
 `
 const Title = styled.h1`
     color: #ffb6b9;
