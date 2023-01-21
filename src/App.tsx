@@ -5,7 +5,7 @@ import Top from './top/Top';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <BrowserRouter>
         <Routes>
           <Route path={`/`} element={<Top />} />
